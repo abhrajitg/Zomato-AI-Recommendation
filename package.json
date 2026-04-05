@@ -1,0 +1,16 @@
+{
+  "name": "zomato-ai-recommender-final",
+  "version": "1.0.0",
+  "description": "High-fidelity Zomato AI Recommender - Production Version",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install",
+    "start:client": "cd client && npm run dev",
+    "start:server": "cd server && npm run start",
+    "dev": "concurrently \"npm run start:server\" \"npm run start:client\"",
+    "build:client": "cd client && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  }
+}

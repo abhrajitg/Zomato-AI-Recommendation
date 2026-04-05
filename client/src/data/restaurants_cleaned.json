@@ -1,0 +1,5404 @@
+[
+  {
+    "name": "Jalsa",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Chinese"
+    ],
+    "price_for_two": 800,
+    "rating": 4.1,
+    "table_booking": true
+  },
+  {
+    "name": "Spice Elephant",
+    "location": "Banashankari",
+    "cuisines": [
+      "Chinese",
+      "North Indian",
+      "Thai"
+    ],
+    "price_for_two": 800,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "San Churro Cafe",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Mexican",
+      "Italian"
+    ],
+    "price_for_two": 800,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Addhuri Udupi Bhojana",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Grand Village",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Rajasthani"
+    ],
+    "price_for_two": 600,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Timepass Dinner",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 600,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Rosewood International Hotel - Bar & Restaurant",
+    "location": "Mysore Road",
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Andhra",
+      "Chinese"
+    ],
+    "price_for_two": 800,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Onesta",
+    "location": "Banashankari",
+    "cuisines": [
+      "Pizza",
+      "Cafe",
+      "Italian"
+    ],
+    "price_for_two": 600,
+    "rating": 4.6,
+    "table_booking": true
+  },
+  {
+    "name": "Penthouse Cafe",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Italian",
+      "Continental"
+    ],
+    "price_for_two": 700,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Smacznego",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Mexican",
+      "Italian",
+      "Momos",
+      "Beverages"
+    ],
+    "price_for_two": 550,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Caf\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a9 Down The Alley",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe"
+    ],
+    "price_for_two": 500,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Cafe Shuffle",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Italian",
+      "Continental"
+    ],
+    "price_for_two": 600,
+    "rating": 4.2,
+    "table_booking": true
+  },
+  {
+    "name": "The Coffee Shack",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Chinese",
+      "Continental",
+      "Italian"
+    ],
+    "price_for_two": 500,
+    "rating": 4.2,
+    "table_booking": true
+  },
+  {
+    "name": "Caf-Eleven",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Continental"
+    ],
+    "price_for_two": 450,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Cafe Vivacity",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe"
+    ],
+    "price_for_two": 650,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Catch-up-ino",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Fast Food",
+      "Continental",
+      "Chinese",
+      "Momos"
+    ],
+    "price_for_two": 800,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Kirthi's Biryani",
+    "location": "Banashankari",
+    "cuisines": [
+      "Chinese",
+      "Cafe",
+      "Italian"
+    ],
+    "price_for_two": 700,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "T3H Cafe",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Italian",
+      "American"
+    ],
+    "price_for_two": 300,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "360 Atoms Restaurant And Cafe",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Chinese",
+      "Continental",
+      "Italian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "The Vintage Cafe",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "French",
+      "North Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "Woodee Pizza",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Pizza",
+      "Fast Food",
+      "Beverages"
+    ],
+    "price_for_two": 500,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Cafe Coffee Day",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Fast Food"
+    ],
+    "price_for_two": 900,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "My Tea House",
+    "location": "Banashankari",
+    "cuisines": [
+      "Italian",
+      "Fast Food",
+      "Cafe",
+      "European"
+    ],
+    "price_for_two": 600,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Hide Out Cafe",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe"
+    ],
+    "price_for_two": 300,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "CAFE NOVA",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Bakery"
+    ],
+    "price_for_two": 600,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Coffee Tindi",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Sea Green Cafe",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Fast Food",
+      "Beverages"
+    ],
+    "price_for_two": 500,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Cuppa",
+    "location": "Banashankari",
+    "cuisines": [
+      "Cafe",
+      "Fast Food"
+    ],
+    "price_for_two": 550,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Srinathji's Cafe",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Cafe",
+      "Chinese",
+      "Fast Food"
+    ],
+    "price_for_two": 550,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Redberrys",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Cafe",
+      "Italian"
+    ],
+    "price_for_two": 600,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Foodiction",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Fast Food",
+      "Chinese",
+      "Burger"
+    ],
+    "price_for_two": 500,
+    "rating": 2.8,
+    "table_booking": false
+  },
+  {
+    "name": "Sweet Truth",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "price_for_two": 500,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Ovenstory Pizza",
+    "location": "Banashankari",
+    "cuisines": [
+      "Pizza"
+    ],
+    "price_for_two": 750,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Faasos",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Biryani",
+      "Fast Food"
+    ],
+    "price_for_two": 500,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Behrouz Biryani",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani"
+    ],
+    "price_for_two": 650,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Fast And Fresh",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Fast Food"
+    ],
+    "price_for_two": 400,
+    "rating": 2.8,
+    "table_booking": false
+  },
+  {
+    "name": "Szechuan Dragon",
+    "location": "Banashankari",
+    "cuisines": [
+      "Chinese",
+      "Thai",
+      "Momos"
+    ],
+    "price_for_two": 600,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Empire Restaurant",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "South Indian",
+      "Chinese"
+    ],
+    "price_for_two": 750,
+    "rating": 4.4,
+    "table_booking": false
+  },
+  {
+    "name": "Maruthi Davangere Benne Dosa",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Chaatimes",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Street Food",
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Havyaka Mess",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "McDonald's",
+    "location": "Banashankari",
+    "cuisines": [
+      "Burger",
+      "Fast Food"
+    ],
+    "price_for_two": 500,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Domino's Pizza",
+    "location": "Banashankari",
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "price_for_two": 800,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Hotboxit",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Continental",
+      "Italian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Kitchen Garden",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Recipe",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Biryani",
+      "Rolls"
+    ],
+    "price_for_two": 450,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Beijing Bites",
+    "location": "Rajarajeshwari Nagar",
+    "cuisines": [
+      "Chinese",
+      "Thai"
+    ],
+    "price_for_two": 850,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Tasty Bytes",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Momos",
+      "Rolls"
+    ],
+    "price_for_two": 300,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Petoo",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 450,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Shree Cool Point",
+    "location": "Vijay Nagar",
+    "cuisines": [
+      "Fast Food",
+      "Street Food",
+      "Beverages"
+    ],
+    "price_for_two": 150,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Corner House Ice Cream",
+    "location": "Banashankari",
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "price_for_two": 400,
+    "rating": 4.3,
+    "table_booking": false
+  },
+  {
+    "name": "Biryanis And More",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Biryani",
+      "North Indian",
+      "Chinese",
+      "Andhra",
+      "South Indian"
+    ],
+    "price_for_two": 750,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Roving Feast",
+    "location": "Banashankari",
+    "cuisines": [
+      "Italian",
+      "Continental",
+      "Fast Food",
+      "Chinese",
+      "Momos"
+    ],
+    "price_for_two": 450,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "FreshMenu",
+    "location": "Banashankari",
+    "cuisines": [
+      "Healthy Food",
+      "Chinese",
+      "Biryani",
+      "North Indian",
+      "Continental",
+      "Salad",
+      "American",
+      "Burger"
+    ],
+    "price_for_two": 450,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Banashankari Donne Biriyani",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "Fast Food"
+    ],
+    "price_for_two": 300,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Wamama",
+    "location": "Banashankari",
+    "cuisines": [
+      "Asian",
+      "Korean",
+      "Indonesian",
+      "Japanese",
+      "Chinese",
+      "Thai",
+      "Momos"
+    ],
+    "price_for_two": 800,
+    "rating": 4.2,
+    "table_booking": true
+  },
+  {
+    "name": "Five Star Chicken",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "Burger"
+    ],
+    "price_for_two": 200,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "XO Belgian Waffle",
+    "location": "Banashankari",
+    "cuisines": [
+      "Desserts",
+      "Beverages"
+    ],
+    "price_for_two": 400,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Peppy Peppers",
+    "location": "Banashankari",
+    "cuisines": [
+      "Italian",
+      "North Indian",
+      "Mexican"
+    ],
+    "price_for_two": 800,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Goa 0 Km",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Goan",
+      "Seafood",
+      "North Indian",
+      "Chinese",
+      "Biryani"
+    ],
+    "price_for_two": 800,
+    "rating": 3.6,
+    "table_booking": true
+  },
+  {
+    "name": "Chinese Kitchen",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Chinese"
+    ],
+    "price_for_two": 150,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "1947",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 850,
+    "rating": 4.0,
+    "table_booking": true
+  },
+  {
+    "name": "Cake of the Day",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery"
+    ],
+    "price_for_two": 150,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Kabab Magic",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Kebab",
+      "Chinese",
+      "Fast Food"
+    ],
+    "price_for_two": 400,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Namma Brahmin's Idli",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Gustoes Beer House",
+    "location": "Banashankari",
+    "cuisines": [
+      "Continental",
+      "Italian",
+      "Mexican",
+      "North Indian",
+      "Chinese",
+      "Steak"
+    ],
+    "price_for_two": 1200,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Sugar Rush",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "price_for_two": 300,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Burger King",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Beverages"
+    ],
+    "price_for_two": 600,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "The Good Bowl",
+    "location": "Banashankari",
+    "cuisines": [
+      "Italian",
+      "North Indian",
+      "Biryani"
+    ],
+    "price_for_two": 500,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "The Biryani Cafe",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "Chinese",
+      "Kebab"
+    ],
+    "price_for_two": 300,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Spicy Tandoor",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "LSD Cafe",
+    "location": "Banashankari",
+    "cuisines": [
+      "Chinese",
+      "Continental",
+      "Italian",
+      "North Indian"
+    ],
+    "price_for_two": 700,
+    "rating": 2.9,
+    "table_booking": false
+  },
+  {
+    "name": "Rolls On Wheels",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "Rolls",
+      "Momos"
+    ],
+    "price_for_two": 300,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Om Sri Vinayaka Chats",
+    "location": "Banashankari",
+    "cuisines": [
+      "Street Food",
+      "Fast Food"
+    ],
+    "price_for_two": 500,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Guru Kottureshwara Davangere Benne Dosa",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Devanna Dum Biriyani Centre",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "South Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Kolbeh",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 500,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Upahar Sagar",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Chinese",
+      "North Indian"
+    ],
+    "price_for_two": 350,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Kadalu Sea Food Restaurant",
+    "location": "Vijay Nagar",
+    "cuisines": [
+      "Seafood",
+      "North Indian",
+      "Chinese",
+      "Andhra",
+      "Biryani",
+      "Kebab"
+    ],
+    "price_for_two": 500,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Frozen Bottle",
+    "location": "Banashankari",
+    "cuisines": [
+      "Beverages",
+      "Desserts",
+      "Ice Cream"
+    ],
+    "price_for_two": 400,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Parimala Sweets",
+    "location": "Banashankari",
+    "cuisines": [
+      "Mithai",
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Vaishali Deluxe",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 700,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Chill Out",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Chinese"
+    ],
+    "price_for_two": 100,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "The Big O Bakes",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "price_for_two": 300,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Meghana Foods",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Biryani",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 600,
+    "rating": 4.4,
+    "table_booking": false
+  },
+  {
+    "name": "Krishna Sagar",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Dessert Rose",
+    "location": "Banashankari",
+    "cuisines": [
+      "Desserts"
+    ],
+    "price_for_two": 500,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Chickpet Donne Biryani House",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani"
+    ],
+    "price_for_two": 250,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Me And My Cake",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "price_for_two": 500,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Sunsadm",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Annapooraneshwari Mess",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Thanco's Natural Ice Creams",
+    "location": "Banashankari",
+    "cuisines": [
+      "Ice Cream"
+    ],
+    "price_for_two": 300,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Nandhini Deluxe",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 600,
+    "rating": 2.6,
+    "table_booking": false
+  },
+  {
+    "name": "Vi Ra's Bar and Restaurant",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 800,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Kaggis",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "Bakery"
+    ],
+    "price_for_two": 250,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Ayda Persian Kitchen",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Iranian"
+    ],
+    "price_for_two": 950,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Chatar Patar",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "Street Food"
+    ],
+    "price_for_two": 300,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Polar Bear",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Ice Cream",
+      "Desserts",
+      "Beverages",
+      "Sandwich"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Kidambi's Kitchen",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Mane Thindi",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Kotian Karavali Restaurant",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Biryani"
+    ],
+    "price_for_two": 300,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Floured-Baked With Love",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Cakes & Slices",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "price_for_two": 300,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Spice 9",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "North Indian",
+      "Chinese",
+      "Fast Food"
+    ],
+    "price_for_two": 300,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Coffee Shopee",
+    "location": "Banashankari",
+    "cuisines": [
+      "Beverages"
+    ],
+    "price_for_two": 250,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Naveen Kabab & Biriyani Mane",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani"
+    ],
+    "price_for_two": 300,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Katriguppe Donne Biryani",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Hari Super Sandwich",
+    "location": "Banashankari",
+    "cuisines": [
+      "Sandwich",
+      "Pizza",
+      "Beverages"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Atithi Point Ande Ka Funda",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Just Bake",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "price_for_two": 400,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Dharwad Line Bazaar Mishra Pedha",
+    "location": "Banashankari",
+    "cuisines": [
+      "Mithai"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Cake Bite",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Aarush's Food Plaza",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Wood Stove",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Kulfi & More",
+    "location": "Banashankari",
+    "cuisines": [
+      "Ice Cream",
+      "Desserts",
+      "Juices"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Kannadigas Karavali",
+    "location": "Banashankari",
+    "cuisines": [
+      "Mangalorean",
+      "South Indian",
+      "North Indian"
+    ],
+    "price_for_two": 250,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "K27 - The Pub",
+    "location": "Banashankari",
+    "cuisines": [
+      "Chinese",
+      "North Indian"
+    ],
+    "price_for_two": 1000,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Bengaluru Coffee House",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 300,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "New Mangalore Lunch Home",
+    "location": "Banashankari",
+    "cuisines": [
+      "Mangalorean",
+      "South Indian",
+      "North Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Coffee Bytes",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Parjanya Chat Zone",
+    "location": "Banashankari",
+    "cuisines": [
+      "Street Food",
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Kwality Wall's Swirl's Happiness Station",
+    "location": "Banashankari",
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "price_for_two": 200,
+    "rating": 2.9,
+    "table_booking": false
+  },
+  {
+    "name": "Soms Kitchen & Bakes",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Continental"
+    ],
+    "price_for_two": 400,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Banashankari Nati Style",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "Chinese",
+      "South Indian",
+      "North Indian"
+    ],
+    "price_for_two": 350,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Ruchi Maayaka",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Mohitesh Hut Roll",
+    "location": "Banashankari",
+    "cuisines": [
+      "Rolls",
+      "North Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Basaveshwar Jolada Rotti Oota",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Roll Magic Fast Food",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "Rolls",
+      "Chinese"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Foodlieious Multi Cuisine",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Thanishka Nati And Karavali Style",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "Fast Food"
+    ],
+    "price_for_two": 400,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Swathi Cool Point",
+    "location": "Banashankari",
+    "cuisines": [
+      "Beverages",
+      "Juices"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Kaumudis Juoice",
+    "location": "Banashankari",
+    "cuisines": [
+      "Beverages",
+      "Fast Food",
+      "Juices"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Amma - Manae",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Sai Tiffannies",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Chinese"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Hotel Andhra Speices",
+    "location": "Banashankari",
+    "cuisines": [
+      "Andhra"
+    ],
+    "price_for_two": 250,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Murari Family Restaurant",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani"
+    ],
+    "price_for_two": 250,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Aramane Donne Biriyani",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Biryani"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Darkolates",
+    "location": "Banashankari",
+    "cuisines": [
+      "Desserts"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Swaada Healthy Kitchen",
+    "location": "Banashankari",
+    "cuisines": [
+      "Healthy Food",
+      "Juices",
+      "Sandwich"
+    ],
+    "price_for_two": 350,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Gawdaru Mane Beriyani",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Biryani"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Melting Melodies",
+    "location": "Banashankari",
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "price_for_two": 100,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "New Indraprasta",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Beverages"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Anna Kuteera",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 450,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Darbar",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 800,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "Vijayalakshmi",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Udupi Food Hub",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Beverages"
+    ],
+    "price_for_two": 500,
+    "rating": 4.1,
+    "table_booking": true
+  },
+  {
+    "name": "Udupi Upahar",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Chinese",
+      "North Indian",
+      "Juices"
+    ],
+    "price_for_two": 300,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "House Of Kebabs",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Kebab",
+      "Biryani",
+      "Chinese"
+    ],
+    "price_for_two": 650,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Roll N Rock",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Chinese",
+      "North Indian",
+      "Mughlai",
+      "Rolls"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "BOX8- Desi Meals",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Fast Food"
+    ],
+    "price_for_two": 500,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "KFC",
+    "location": "Banashankari",
+    "cuisines": [
+      "Burger",
+      "Fast Food"
+    ],
+    "price_for_two": 450,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Bitez",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 100,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Roll Over",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Desserts",
+      "Ice Cream",
+      "Beverages",
+      "Fast Food",
+      "Sandwich"
+    ],
+    "price_for_two": 500,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Imperial Restaurant",
+    "location": "Mysore Road",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Biryani",
+      "Beverages"
+    ],
+    "price_for_two": 750,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Lassi Shop",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Beverages",
+      "Juices",
+      "Ice Cream"
+    ],
+    "price_for_two": 150,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "The Fortuna",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 250,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "Wahab",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Chinese"
+    ],
+    "price_for_two": 350,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Al Diwan Biryanis And More",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Biryani"
+    ],
+    "price_for_two": 300,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "New Gowda's Fried Chicken",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani"
+    ],
+    "price_for_two": 300,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Canton",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Chinese",
+      "Seafood",
+      "Biryani"
+    ],
+    "price_for_two": 800,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Diabetics Dezire Sugarless Sweets and Bakes",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Desserts",
+      "Mithai"
+    ],
+    "price_for_two": 300,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "The Blue Wagon - Kitchen",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Cafe",
+      "Beverages"
+    ],
+    "price_for_two": 400,
+    "rating": 4.6,
+    "table_booking": false
+  },
+  {
+    "name": "HOT COFFEE",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "Chinese"
+    ],
+    "price_for_two": 150,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Patio 805",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Thai",
+      "Vietnamese",
+      "Asian",
+      "Chinese"
+    ],
+    "price_for_two": 1200,
+    "rating": 4.1,
+    "table_booking": true
+  },
+  {
+    "name": "Lassi Corner",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Beverages",
+      "Ice Cream"
+    ],
+    "price_for_two": 150,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Sagar Deluxe",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Juices"
+    ],
+    "price_for_two": 300,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Kanti Sweets",
+    "location": "Banashankari",
+    "cuisines": [
+      "Mithai",
+      "Street Food"
+    ],
+    "price_for_two": 400,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Vegetalia",
+    "location": "Banashankari",
+    "cuisines": [
+      "Italian",
+      "Pizza"
+    ],
+    "price_for_two": 400,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Aramane Donne Biryani",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani"
+    ],
+    "price_for_two": 200,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Ande Ka Funda",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Fast Food",
+      "Rolls"
+    ],
+    "price_for_two": 250,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Cake Ghar",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Bakery"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Energy Addaa",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Salad",
+      "Healthy Food",
+      "Sandwich",
+      "Juices",
+      "Burger",
+      "Desserts",
+      "Pizza"
+    ],
+    "price_for_two": 500,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Bhattara Bhojana",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Tandoori Knight",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Biryani",
+      "Kebab"
+    ],
+    "price_for_two": 450,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "Dev Sagar - Food Street",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Mitraa Da Pizza",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Fast Food",
+      "Pizza"
+    ],
+    "price_for_two": 250,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Paradise Premium",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "Andhra",
+      "Hyderabadi",
+      "North Indian"
+    ],
+    "price_for_two": 700,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Grazers",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Cafe",
+      "Burger",
+      "Continental",
+      "Italian",
+      "Desserts"
+    ],
+    "price_for_two": 650,
+    "rating": 3.9,
+    "table_booking": true
+  },
+  {
+    "name": "Shakes Theory",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Beverages",
+      "Sandwich"
+    ],
+    "price_for_two": 300,
+    "rating": 4.5,
+    "table_booking": false
+  },
+  {
+    "name": "@Italy",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Italian"
+    ],
+    "price_for_two": 700,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Chilli Flakes",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "Italian",
+      "Beverages"
+    ],
+    "price_for_two": 500,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Calcutta Cafe",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Bengali",
+      "Chinese",
+      "Sandwich"
+    ],
+    "price_for_two": 350,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Old Mumbai Ice Cream",
+    "location": "Banashankari",
+    "cuisines": [
+      "Ice Cream"
+    ],
+    "price_for_two": 150,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Donne Biriyani House",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Biryani"
+    ],
+    "price_for_two": 400,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "By 2 Coffee",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Kedia's Fun Food",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Street Food",
+      "Juices"
+    ],
+    "price_for_two": 200,
+    "rating": 4.3,
+    "table_booking": false
+  },
+  {
+    "name": "Davangere Butter Dosa Hotel",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Just Shawarma",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Arabian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Mini Punjabi Dhaba",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 350,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Mulabagilu Dosa",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Gokul Veg",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Beverages"
+    ],
+    "price_for_two": 750,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Olive - Era",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "BBQ",
+      "Arabian",
+      "Rolls",
+      "Chinese",
+      "North Indian",
+      "Juices",
+      "Kebab",
+      "Desserts"
+    ],
+    "price_for_two": 550,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Udupi Ruchi",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Madhappa Hindu Military Hotel",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Gama Gama",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Pizza Hut",
+    "location": "Banashankari",
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "price_for_two": 750,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Mangalore Pearl",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Mangalorean",
+      "Seafood",
+      "Chinese",
+      "Biryani"
+    ],
+    "price_for_two": 650,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Asha Sweets Centre",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 250,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Twiststick House",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Continental",
+      "Fast Food",
+      "Street Food",
+      "Momos"
+    ],
+    "price_for_two": 500,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Cool Corner",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Street Food",
+      "Fast Food"
+    ],
+    "price_for_two": 250,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Pizza Mane",
+    "location": "Banashankari",
+    "cuisines": [
+      "Pizza",
+      "Sandwich",
+      "Burger",
+      "Fast Food"
+    ],
+    "price_for_two": 150,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Dal Tadkaa",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 500,
+    "rating": 2.5,
+    "table_booking": false
+  },
+  {
+    "name": "Chutney Chang",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "BBQ"
+    ],
+    "price_for_two": 1500,
+    "rating": 4.1,
+    "table_booking": true
+  },
+  {
+    "name": "Mystique Palate",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Chinese",
+      "Fast Food"
+    ],
+    "price_for_two": 300,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Thamboola",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Continental"
+    ],
+    "price_for_two": 800,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Castle Rock",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 700,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Vietnamese Kitchen",
+    "location": "Banashankari",
+    "cuisines": [
+      "Vietnamese"
+    ],
+    "price_for_two": 700,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "C Corner",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Fast Food",
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Paratha Merchant",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "North Rasoe",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Biryani",
+      "Kebab"
+    ],
+    "price_for_two": 500,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Inchara Restaurant",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Toscano",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Italian",
+      "Salad"
+    ],
+    "price_for_two": 1300,
+    "rating": 4.3,
+    "table_booking": true
+  },
+  {
+    "name": "Lord Of The Kitchen",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 350,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Stoned Monkey",
+    "location": "Banashankari",
+    "cuisines": [
+      "Desserts",
+      "Ice Cream"
+    ],
+    "price_for_two": 500,
+    "rating": 4.3,
+    "table_booking": false
+  },
+  {
+    "name": "Central Jail Restaurant",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Andhra",
+      "Seafood",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 700,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Bella",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Mangalorean",
+      "Seafood",
+      "South Indian"
+    ],
+    "price_for_two": 1000,
+    "rating": 3.9,
+    "table_booking": true
+  },
+  {
+    "name": "Vennela Andhra Meals",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Andhra"
+    ],
+    "price_for_two": 400,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "New Prashanth Hotel",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "Biryani",
+      "Chinese",
+      "North Indian"
+    ],
+    "price_for_two": 750,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "The Grillo",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "Arabian",
+      "Chinese",
+      "North Indian",
+      "Seafood",
+      "Mangalorean"
+    ],
+    "price_for_two": 500,
+    "rating": 2.8,
+    "table_booking": true
+  },
+  {
+    "name": "Re Malnad Nati Style Hotel",
+    "location": "JP Nagar",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Karma Kaapi",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Beverages",
+      "Tea"
+    ],
+    "price_for_two": 250,
+    "rating": 4.4,
+    "table_booking": false
+  },
+  {
+    "name": "Tiwari's",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Pizza Stop",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Pizza",
+      "Italian"
+    ],
+    "price_for_two": 600,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Biggies Burger 'n' More",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Cafe",
+      "Burger",
+      "Beverages"
+    ],
+    "price_for_two": 650,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Kollapuri's",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "Mangalorean"
+    ],
+    "price_for_two": 450,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Sugar Stars Co",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Bombay Kulfis",
+    "location": "JP Nagar",
+    "cuisines": [
+      "Ice Cream"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Kadamba Classic",
+    "location": "Mysore Road",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "RS Shiv Sagar",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian",
+      "Fast Food",
+      "Juices"
+    ],
+    "price_for_two": 450,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Kholi Mane",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Andhra",
+      "South Indian",
+      "Biryani",
+      "North Indian"
+    ],
+    "price_for_two": 450,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Harshi Super Sandwich",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Fast Food",
+      "Street Food"
+    ],
+    "price_for_two": 150,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Cake Yard",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Desserts"
+    ],
+    "price_for_two": 250,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Udupi Veg",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 250,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Cake Art",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Bakery"
+    ],
+    "price_for_two": 400,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Aahar Cafe",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Akash Gowdru Biryani Center",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "New Sri Udupi Restaurant",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Beverages",
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Potato House",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Hotel Biriyani Counter",
+    "location": "Vijay Nagar",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Biryani"
+    ],
+    "price_for_two": 350,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Matru Sagar",
+    "location": "Mysore Road",
+    "cuisines": [
+      "South Indian",
+      "North Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Ugadi",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Biryani",
+      "Andhra",
+      "Mangalorean"
+    ],
+    "price_for_two": 700,
+    "rating": 2.9,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Krishna Sweets",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Mithai",
+      "Desserts"
+    ],
+    "price_for_two": 250,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "In Time Cane Juice",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Juices",
+      "Beverages"
+    ],
+    "price_for_two": 100,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Subway",
+    "location": "Banashankari",
+    "cuisines": [
+      "Salad",
+      "Fast Food"
+    ],
+    "price_for_two": 600,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Daal Roti",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 250,
+    "rating": 2.9,
+    "table_booking": false
+  },
+  {
+    "name": "The Lassi Park",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Juices",
+      "Desserts"
+    ],
+    "price_for_two": 200,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Cafe Coffee Day",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Cafe",
+      "Fast Food"
+    ],
+    "price_for_two": 900,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "A2B - Adyar Ananda Bhavan",
+    "location": "Mysore Road",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Srikrishna Bhavan",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Green Gardenia",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 700,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "J Spice",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 750,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Karavali Family Restaurant",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Seafood",
+      "Biryani",
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 500,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Karavali Lunch Home",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "South Indian",
+      "Mangalorean"
+    ],
+    "price_for_two": 350,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Hatti Kaapi",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "Beverages"
+    ],
+    "price_for_two": 200,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Kolkata Kathi Roll's",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "Rolls"
+    ],
+    "price_for_two": 250,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Upahara Darshini",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian",
+      "Fast Food"
+    ],
+    "price_for_two": 600,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "The Chaat Shop",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 2.5,
+    "table_booking": false
+  },
+  {
+    "name": "Anda Ka Funda",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Rolls"
+    ],
+    "price_for_two": 250,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Shri Vinayaka Ice N Juice",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Beverages",
+      "Fast Food"
+    ],
+    "price_for_two": 150,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Ibaco",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Desserts"
+    ],
+    "price_for_two": 300,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Jalaram Sweets",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Desserts",
+      "Mithai"
+    ],
+    "price_for_two": 250,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Samskruti - Sanman Gardenia",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian"
+    ],
+    "price_for_two": 550,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Bendakaluru Bytes",
+    "location": "Vijay Nagar",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 300,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Cocoa Bakes",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery",
+      "Desserts"
+    ],
+    "price_for_two": 350,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Chumma Delicious",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "New Prashanth Hotel",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "North Indian",
+      "Seafood",
+      "Andhra"
+    ],
+    "price_for_two": 650,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "SSV Upahar",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Dwaraka Grand",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "South Indian",
+      "Chinese",
+      "Street Food",
+      "Juices"
+    ],
+    "price_for_two": 500,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Gufha - The President Hotel",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Afghani",
+      "Mughlai"
+    ],
+    "price_for_two": 1200,
+    "rating": 4.1,
+    "table_booking": true
+  },
+  {
+    "name": "Tanna's Kitchen",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Italian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 250,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Shree Mandarathi Grand",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "South Indian",
+      "North Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Mojo Pizza - 2X Toppings",
+    "location": "Banashankari",
+    "cuisines": [
+      "Pizza"
+    ],
+    "price_for_two": 600,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Iceberg Icecreams",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Desserts",
+      "Ice Cream"
+    ],
+    "price_for_two": 250,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "South Kitchen",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 4.3,
+    "table_booking": false
+  },
+  {
+    "name": "Chung Wah",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Chinese",
+      "Thai",
+      "Momos"
+    ],
+    "price_for_two": 850,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Shanthi Sagar",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 400,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Millet Mama",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "Healthy Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Bangarpet Chat Express",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Street Food",
+      "Fast Food"
+    ],
+    "price_for_two": 100,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "South Cool Point",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Beverages"
+    ],
+    "price_for_two": 100,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Prems Graama Bhojanam",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 4.3,
+    "table_booking": false
+  },
+  {
+    "name": "Java City",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Cafe",
+      "American",
+      "Pizza"
+    ],
+    "price_for_two": 450,
+    "rating": 2.6,
+    "table_booking": false
+  },
+  {
+    "name": "Kamat Bugle Rock",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "Fast Food"
+    ],
+    "price_for_two": 300,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Puliyogare Point",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Bangalore Agarwal Bhavan",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Street Food",
+      "North Indian",
+      "South Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Rustic Stove",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Biryani",
+      "Beverages"
+    ],
+    "price_for_two": 900,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Udupi Ruchi Grand",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "De Thaali",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Rolls"
+    ],
+    "price_for_two": 550,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Just Thindi",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Matru Sagar",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 250,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Vasanth Vihar - Since 1965",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Street Food"
+    ],
+    "price_for_two": 150,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Sea Spice by 7 Star",
+    "location": "Banashankari",
+    "cuisines": [
+      "Seafood",
+      "Biryani",
+      "Beverages",
+      "South Indian",
+      "North Indian",
+      "Kebab"
+    ],
+    "price_for_two": 1200,
+    "rating": 4.0,
+    "table_booking": true
+  },
+  {
+    "name": "Desi Dawat",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Fast Food"
+    ],
+    "price_for_two": 400,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Cafe Aira",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Cafe",
+      "Continental",
+      "Beverages",
+      "Desserts"
+    ],
+    "price_for_two": 500,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Donne Biriyani combos",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Biryani"
+    ],
+    "price_for_two": 400,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Mast Punjabi",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Rolls",
+      "Biryani",
+      "Kebab"
+    ],
+    "price_for_two": 400,
+    "rating": 2.6,
+    "table_booking": false
+  },
+  {
+    "name": "South Grand",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Beverages"
+    ],
+    "price_for_two": 400,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "The Pizzeria",
+    "location": "Banashankari",
+    "cuisines": [
+      "Pizza",
+      "Italian",
+      "Salad"
+    ],
+    "price_for_two": 800,
+    "rating": 2.8,
+    "table_booking": false
+  },
+  {
+    "name": "Cafe Zone",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Fast Food",
+      "Chinese",
+      "Rolls"
+    ],
+    "price_for_two": 300,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Ruchis Point",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "Chinese"
+    ],
+    "price_for_two": 200,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Firangi Bake",
+    "location": "Rajarajeshwari Nagar",
+    "cuisines": [
+      "Mexican",
+      "Italian"
+    ],
+    "price_for_two": 600,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "The Royal Corner - Pai Viceroy",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 900,
+    "rating": 4.2,
+    "table_booking": true
+  },
+  {
+    "name": "Hara Fine Dine",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 800,
+    "rating": 4.0,
+    "table_booking": true
+  },
+  {
+    "name": "Chocoberry",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Ice Cream",
+      "Desserts",
+      "Beverages"
+    ],
+    "price_for_two": 400,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Dakshin Grand",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 300,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "Sandwichwallas",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Chai Mane",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Juices",
+      "Fast Food"
+    ],
+    "price_for_two": 150,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "SLV Upachar",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "South Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 250,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Waffle-A-Go Go",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "Desserts",
+      "Ice Cream"
+    ],
+    "price_for_two": 400,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Cross Road Cafe",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Cafe",
+      "Fast Food",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Anand Donne Biriyani",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Biryani"
+    ],
+    "price_for_two": 200,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Seven Star",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 250,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Stop 'N' Joy",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 150,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Yaksha Shiv Sagar",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 600,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Fudge",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Desserts",
+      "Momos"
+    ],
+    "price_for_two": 200,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Just Bunny",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Bakers Town",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Cafe",
+      "Continental",
+      "Fast Food"
+    ],
+    "price_for_two": 650,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Shree Mahalakshmi Sweets",
+    "location": "Banashankari",
+    "cuisines": [
+      "Mithai",
+      "Street Food"
+    ],
+    "price_for_two": 100,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Kaapi Kendra",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Ivy",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Fast Food"
+    ],
+    "price_for_two": 600,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "The Airos",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Cafe",
+      "Italian",
+      "Pizza"
+    ],
+    "price_for_two": 650,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Chai Kraft",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Beverages",
+      "Tea"
+    ],
+    "price_for_two": 100,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "South Point Pub",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Seafood",
+      "Chinese"
+    ],
+    "price_for_two": 800,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "The Trundle",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Chinese",
+      "Thai",
+      "Continental",
+      "North Indian"
+    ],
+    "price_for_two": 700,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "The Krishna Grand Xpress",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "Fast Food"
+    ],
+    "price_for_two": 350,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Krishna Darshini",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 200,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Shringar Sweets & Snacks",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Mithai",
+      "South Indian",
+      "Street Food",
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Udupi Grand",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Ganesh Grand",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Desserts"
+    ],
+    "price_for_two": 300,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Shreyas Upahar & Burger Point",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "Burger"
+    ],
+    "price_for_two": 200,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "Little Cafe",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Cafe",
+      "Beverages"
+    ],
+    "price_for_two": 600,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Mumbai Badam Milk & Lassi Center",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Beverages",
+      "Desserts"
+    ],
+    "price_for_two": 100,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Krishna Sagar",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 400,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Mylari Biryani Family Restaurant",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "Fast Food"
+    ],
+    "price_for_two": 400,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "1980s Games Cafe",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Cafe",
+      "Fast Food"
+    ],
+    "price_for_two": 400,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Kadala Tarangaa",
+    "location": "Banashankari",
+    "cuisines": [
+      "Mangalorean",
+      "Seafood",
+      "North Indian"
+    ],
+    "price_for_two": 600,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Namma Biryani",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "Chinese",
+      "North Indian"
+    ],
+    "price_for_two": 250,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Nandhanu's Rasoi",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Chinese",
+      "North Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "Hotel Pork Paradise",
+    "location": "Mysore Road",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "As On Fire",
+    "location": "South Bangalore",
+    "cuisines": [
+      "Pizza",
+      "Fast Food",
+      "BBQ"
+    ],
+    "price_for_two": 400,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "J K Fish Land",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Seafood",
+      "Mangalorean"
+    ],
+    "price_for_two": 300,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Curry Leaves",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Andhra",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 800,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Lassi Shop",
+    "location": "Banashankari",
+    "cuisines": [
+      "Beverages",
+      "Ice Cream",
+      "Fast Food"
+    ],
+    "price_for_two": 300,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Magic Meals",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Fast Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "price_for_two": 400,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Desi Cream Junction",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Chinese",
+      "North Indian",
+      "Pizza",
+      "Italian"
+    ],
+    "price_for_two": 650,
+    "rating": 3.7,
+    "table_booking": true
+  },
+  {
+    "name": "Drunken Monkey",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Beverages",
+      "Fast Food"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Ruchi's Corner",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 2.7,
+    "table_booking": false
+  },
+  {
+    "name": "Tandoori Bytes",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 700,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Bangalore Donne Biriyani",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "South Indian",
+      "Biryani"
+    ],
+    "price_for_two": 300,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "SGS Non Veg - Gundu Pulav",
+    "location": "Banashankari",
+    "cuisines": [
+      "Biryani",
+      "Fast Food"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Keventers",
+    "location": "Banashankari",
+    "cuisines": [
+      "Desserts",
+      "Beverages",
+      "Ice Cream"
+    ],
+    "price_for_two": 400,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Sree Sagar",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Navi Food Point",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Shawarma Inc",
+    "location": "Banashankari",
+    "cuisines": [
+      "Rolls",
+      "Lebanese"
+    ],
+    "price_for_two": 250,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "The Cafe Nuts and Bolts",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Cafe",
+      "Fast Food",
+      "Chinese"
+    ],
+    "price_for_two": 500,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "AM WOW",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Beverages"
+    ],
+    "price_for_two": 100,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Lalbagh Grand",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 250,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "Funjabi Curries",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 500,
+    "rating": 2.9,
+    "table_booking": false
+  },
+  {
+    "name": "Eat Repeat",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Salut",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Continental",
+      "Finger Food",
+      "Seafood",
+      "Pizza"
+    ],
+    "price_for_two": 1200,
+    "rating": 4.1,
+    "table_booking": true
+  },
+  {
+    "name": "Nammura Donne Biriyani",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Biryani",
+      "Fast Food"
+    ],
+    "price_for_two": 400,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Lassi Stop",
+    "location": "Banashankari",
+    "cuisines": [
+      "Beverages",
+      "Fast Food",
+      "Juices"
+    ],
+    "price_for_two": 150,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Dakshin Kitchen",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Sai Cafe",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Sai 99 Variety Dosa",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Utsav Restaurant",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Crunch and Munch",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "Chinese",
+      "Street Food",
+      "Ice Cream"
+    ],
+    "price_for_two": 300,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Food Geek",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Sandwich",
+      "Fast Food",
+      "Rolls"
+    ],
+    "price_for_two": 350,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Krishna Aramane",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Great Indian Rolls",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Rolls"
+    ],
+    "price_for_two": 100,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Chats Point",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Fast Food",
+      "Street Food"
+    ],
+    "price_for_two": 150,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Food Point",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Swarga Ruchi",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Kolkata King",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Fast Food",
+      "Rolls"
+    ],
+    "price_for_two": 300,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Sandwich Mama's And Frozen Monster",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Ice Cream",
+      "Beverages",
+      "Fast Food"
+    ],
+    "price_for_two": 250,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "New Rajadhani Spicy",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 700,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Big Mishra Pedha",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Mithai"
+    ],
+    "price_for_two": 250,
+    "rating": 2.9,
+    "table_booking": false
+  },
+  {
+    "name": "VEGeatz",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Foodizo",
+    "location": "Banashankari",
+    "cuisines": [
+      "Desserts",
+      "Fast Food",
+      "Continental"
+    ],
+    "price_for_two": 300,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Food Springs",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "Chinese"
+    ],
+    "price_for_two": 400,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Chung's Chinese Corner",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Chinese"
+    ],
+    "price_for_two": 700,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Eurasia Pasta and Barbeque by Little Italy",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Italian",
+      "Fast Food",
+      "Salad",
+      "BBQ"
+    ],
+    "price_for_two": 1200,
+    "rating": 4.1,
+    "table_booking": true
+  },
+  {
+    "name": "Goli Vada Pav No. 1",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Ragoo's",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Italian",
+      "Pizza",
+      "North Indian",
+      "Salad"
+    ],
+    "price_for_two": 800,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Pure & Natural",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Fast Food",
+      "Continental",
+      "Beverages",
+      "Salad",
+      "Healthy Food"
+    ],
+    "price_for_two": 500,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Maiyas",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Fast Food",
+      "Juices"
+    ],
+    "price_for_two": 200,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Sip n Dine",
+    "location": "Vijay Nagar",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian"
+    ],
+    "price_for_two": 800,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Cafe Mondo",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Cafe",
+      "Italian",
+      "Beverages"
+    ],
+    "price_for_two": 600,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Jalpaan",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Continental"
+    ],
+    "price_for_two": 900,
+    "rating": 4.0,
+    "table_booking": true
+  },
+  {
+    "name": "Kataria's Pakwan",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Juicy Momos",
+    "location": "Banashankari",
+    "cuisines": [
+      "Tibetan",
+      "Momos"
+    ],
+    "price_for_two": 250,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Amande Patisserie",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Bakery",
+      "French",
+      "Desserts"
+    ],
+    "price_for_two": 300,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Anand Sweets and Savouries",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Mithai",
+      "Street Food"
+    ],
+    "price_for_two": 400,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Chicken Hunt",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Biryani"
+    ],
+    "price_for_two": 350,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Swadesh Tadka",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Beverages"
+    ],
+    "price_for_two": 600,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Cane-O-La",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Juices"
+    ],
+    "price_for_two": 100,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "New Biryani Mane",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Biryani",
+      "South Indian"
+    ],
+    "price_for_two": 450,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Upahara Darshini",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Karnataka Bhel House",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Street Food"
+    ],
+    "price_for_two": 100,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Sreeraj Lassi Bar",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Beverages"
+    ],
+    "price_for_two": 150,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Juice Junction Food Court",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Juices",
+      "South Indian",
+      "Chinese",
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Bunt's Biriyani Palace",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Biryani",
+      "Seafood"
+    ],
+    "price_for_two": 400,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "Chai Point",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Tea",
+      "Beverages",
+      "Fast Food"
+    ],
+    "price_for_two": 250,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Janahaar",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Utsav",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Meat And Eat",
+    "location": "Banashankari",
+    "cuisines": [
+      "Fast Food",
+      "Burger"
+    ],
+    "price_for_two": 500,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Snacks Bite",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Fast Food",
+      "Momos"
+    ],
+    "price_for_two": 400,
+    "rating": 3.0,
+    "table_booking": false
+  },
+  {
+    "name": "The Spice Saga",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Biryani",
+      "North Indian",
+      "Chinese",
+      "Seafood"
+    ],
+    "price_for_two": 750,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Dakshin Cafe",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Mr. Parathewala",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Kaulige Millet Corner",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Healthy Food",
+      "South Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Ifruit Ice Cream",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Desserts",
+      "Ice Cream"
+    ],
+    "price_for_two": 150,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Havmor",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "price_for_two": 200,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Grand Food",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "Bakery",
+      "Chinese"
+    ],
+    "price_for_two": 250,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Dining Hut",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "7 Hills Garden Restaurant",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Chinese"
+    ],
+    "price_for_two": 400,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Desi Swaad",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 400,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Yummy Momos",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Momos",
+      "Tibetan",
+      "Chinese"
+    ],
+    "price_for_two": 200,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Masale Daan",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 350,
+    "rating": 3.1,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Manjunatha Tandoori Corner",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "Mughlai"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Grow Fit",
+    "location": "JP Nagar",
+    "cuisines": [
+      "Healthy Food",
+      "North Indian",
+      "Thai"
+    ],
+    "price_for_two": 500,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "The House Of Vadapav",
+    "location": "Banashankari",
+    "cuisines": [],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Cutcakes",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Bakery"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Lassi Spot",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [],
+    "price_for_two": 100,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Sandwich Hub",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Fast Food",
+      "Sandwich"
+    ],
+    "price_for_two": 300,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Healthy Bakes 'n' Brew",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Bakery"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Udupi Sri Krishna Cafe",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "South Indian"
+    ],
+    "price_for_two": 600,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Starlite Bakery & Fastfood",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Rolls",
+      "Bakery",
+      "Arabian",
+      "Charcoal Chicken",
+      "Desserts"
+    ],
+    "price_for_two": 300,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Veganbreak24x7",
+    "location": "City Market",
+    "cuisines": [
+      "South Indian",
+      "Chinese",
+      "Continental",
+      "Biryani"
+    ],
+    "price_for_two": 199,
+    "rating": 2.8,
+    "table_booking": false
+  },
+  {
+    "name": "Aadhya Hotel",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Biryani"
+    ],
+    "price_for_two": 800,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Dodda Mane Baaduta",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Biryani"
+    ],
+    "price_for_two": 250,
+    "rating": 3.5,
+    "table_booking": false
+  },
+  {
+    "name": "Swadd Kitchen",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Fast Food"
+    ],
+    "price_for_two": 500,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Nandini Milk Parlour and Restaurant",
+    "location": "Mysore Road",
+    "cuisines": [
+      "Sandwich",
+      "Rolls",
+      "South Indian",
+      "Ice Cream"
+    ],
+    "price_for_two": 250,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Happy Chopsticks",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Chinese",
+      "Fast Food"
+    ],
+    "price_for_two": 300,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Sai Super Sandwich",
+    "location": "Banashankari",
+    "cuisines": [
+      "Sandwich",
+      "Beverages"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Right Pizza",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Pizza"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Udupi Upachar",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian"
+    ],
+    "price_for_two": 500,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Davanagere Benne Dose Hut",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "The Sip Shop",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Pizza",
+      "Beverages",
+      "Ice Cream"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Subz",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "South Indian"
+    ],
+    "price_for_two": 1000,
+    "rating": 4.2,
+    "table_booking": true
+  },
+  {
+    "name": "Rajastani Rasoi",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 100,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Sri Banashankari Upahara",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "South Indian"
+    ],
+    "price_for_two": 150,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Mint and Mustard",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 750,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Chinese Square",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Chinese"
+    ],
+    "price_for_two": 200,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Hyderabad Express",
+    "location": "Banashankari",
+    "cuisines": [
+      "Hyderabadi",
+      "Biryani",
+      "South Indian",
+      "Andhra",
+      "Beverages"
+    ],
+    "price_for_two": 300,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Punjabi Raswada",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 800,
+    "rating": 3.5,
+    "table_booking": true
+  },
+  {
+    "name": "Vinny's",
+    "location": "Banashankari",
+    "cuisines": [
+      "Pizza",
+      "Italian",
+      "Continental",
+      "Desserts"
+    ],
+    "price_for_two": 800,
+    "rating": 4.2,
+    "table_booking": true
+  },
+  {
+    "name": "Chetty's Corner",
+    "location": "Uttarahalli",
+    "cuisines": [
+      "Fast Food",
+      "Burger",
+      "Pizza"
+    ],
+    "price_for_two": 200,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Kapoor's Cafe",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 800,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Donne Biryani & Kabab Corner",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "Chinese",
+      "Biryani"
+    ],
+    "price_for_two": 200,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Sukh Sagar",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 450,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "S M V Snacks Corner",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 3.7,
+    "table_booking": false
+  },
+  {
+    "name": "Andhra Ruchulu",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Andhra",
+      "Biryani",
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 1000,
+    "rating": 4.1,
+    "table_booking": true
+  },
+  {
+    "name": "The Samosa Co",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Fast Food",
+      "Mithai"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Steaming Mugs",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Cafe"
+    ],
+    "price_for_two": 700,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Rajathadri Food Fort",
+    "location": "Jayanagar",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 600,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "Brew Meister",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Continental",
+      "Finger Food",
+      "American",
+      "Asian"
+    ],
+    "price_for_two": 1500,
+    "rating": 4.1,
+    "table_booking": true
+  },
+  {
+    "name": "Rasoi",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 3.3,
+    "table_booking": false
+  },
+  {
+    "name": "Mr. Singh Da Dhaba",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "price_for_two": 300,
+    "rating": 3.6,
+    "table_booking": false
+  },
+  {
+    "name": "Kababs N Biryani",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian"
+    ],
+    "price_for_two": 200,
+    "rating": 3.4,
+    "table_booking": false
+  },
+  {
+    "name": "Ayodhya Upachar",
+    "location": "Banashankari",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "price_for_two": 200,
+    "rating": 4.3,
+    "table_booking": false
+  },
+  {
+    "name": "Biriyani Mane",
+    "location": "Jayanagar",
+    "cuisines": [
+      "North Indian",
+      "Biryani"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Cafe Ajfan",
+    "location": "Jayanagar",
+    "cuisines": [
+      "Cafe",
+      "Continental",
+      "Beverages"
+    ],
+    "price_for_two": 700,
+    "rating": 4.2,
+    "table_booking": false
+  },
+  {
+    "name": "Brundhavana Food Point",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food",
+      "Beverages"
+    ],
+    "price_for_two": 300,
+    "rating": 4.0,
+    "table_booking": false
+  },
+  {
+    "name": "SLV Corner Restaurant",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "South Indian",
+      "Chinese",
+      "North Indian",
+      "Street Food",
+      "Rolls",
+      "Juices"
+    ],
+    "price_for_two": 550,
+    "rating": 4.1,
+    "table_booking": false
+  },
+  {
+    "name": "Biryani Royals Garden",
+    "location": "Kumaraswamy Layout",
+    "cuisines": [
+      "North Indian",
+      "Biryani",
+      "Mughlai"
+    ],
+    "price_for_two": 500,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Hotel New Karavali",
+    "location": "Banashankari",
+    "cuisines": [
+      "Mangalorean",
+      "South Indian",
+      "North Indian"
+    ],
+    "price_for_two": 300,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "The Krishna Grand",
+    "location": "Banashankari",
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Fast Food",
+      "Juices"
+    ],
+    "price_for_two": 750,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Roti Ghar",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian"
+    ],
+    "price_for_two": 500,
+    "rating": 3.9,
+    "table_booking": false
+  },
+  {
+    "name": "Multi Snacky Hub",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "Fast Food"
+    ],
+    "price_for_two": 200,
+    "rating": 0.0,
+    "table_booking": false
+  },
+  {
+    "name": "Kettle & Kegs",
+    "location": "Banashankari",
+    "cuisines": [
+      "Tea",
+      "Beverages"
+    ],
+    "price_for_two": 200,
+    "rating": 3.2,
+    "table_booking": false
+  },
+  {
+    "name": "Baisakhi",
+    "location": "Basavanagudi",
+    "cuisines": [
+      "North Indian"
+    ],
+    "price_for_two": 500,
+    "rating": 3.8,
+    "table_booking": false
+  },
+  {
+    "name": "Poonam Sweets",
+    "location": "Banashankari",
+    "cuisines": [
+      "Mithai"
+    ],
+    "price_for_two": 150,
+    "rating": 4.4,
+    "table_booking": false
+  },
+  {
+    "name": "Amma's Pastries",
+    "location": "Banashankari",
+    "cuisines": [
+      "Bakery"
+    ],
+    "price_for_two": 400,
+    "rating": 3.8,
+    "table_booking": false
+  }
+]
