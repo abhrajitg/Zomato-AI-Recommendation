@@ -1,4 +1,4 @@
-# 🚀 Zomato AI Recommender (Sushi Edition)
+# Food Tech AI Recommender (Sushi Edition)
 
 A high-fidelity, production-grade restaurant discovery platform inspired by Zomato's **Sushi Design System**. Powered by the **Groq Llama-3.3-70b** model for intelligent, context-aware dining recommendations.
 
