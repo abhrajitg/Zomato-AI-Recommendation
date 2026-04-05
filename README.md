@@ -45,6 +45,10 @@ npm run dev
 - **Frontend**: http://localhost:5173
 - **Backend API**: http://localhost:3001
 
+  
+https://github.com/user-attachments/assets/e8856059-5a77-4246-a08c-df69c6b9cdec
+
+
 ## 📂 Project Structure
 
 - `/client`: React frontend containing the Sushi component library.
