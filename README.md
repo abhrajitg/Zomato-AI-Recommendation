@@ -1,6 +1,6 @@
 # Food Tech AI Recommender (Sushi Edition)
 
-A high-fidelity, production-grade restaurant discovery platform inspired by Zomato's **Sushi Design System**. Powered by the **Groq Llama-3.3-70b** model for intelligent, context-aware dining recommendations.
+A high-fidelity, vibe-coded restaurant discovery platform inspired by Zomato's **Sushi Design System**. Powered by the **Groq Llama-3.3-70b** model for intelligent, context-aware dining recommendations.
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ A high-fidelity, production-grade restaurant discovery platform inspired by Zoma
 - **Frontend**: React (Vite), Lucide-React, CSS3 (Sushi Standard).
 - **Backend**: Node.js, Express, Groq SDK.
 - **AI Model**: Llama-3-3-70b-versatile (via Groq).
-- **Data**: Zomato Bangalore Dataset (51K+ Rows Preprocessed).
+- **Data**: Zomato Bangalore Dataset (https://huggingface.co/datasets/ManikaSaini/zomato-restaurant-recommendation).
 
 ## 🚀 Getting Started
 
