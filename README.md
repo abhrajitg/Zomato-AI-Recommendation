@@ -46,7 +46,11 @@ npm run dev
 - **Backend API**: http://localhost:3001
 
   
-https://github.com/user-attachments/assets/e8856059-5a77-4246-a08c-df69c6b9cdec
+
+
+https://github.com/user-attachments/assets/af22d1ea-d566-4210-8078-f748e17a4c2d
+
+
 
 
 ## 📂 Project Structure
