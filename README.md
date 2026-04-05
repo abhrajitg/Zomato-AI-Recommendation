@@ -2,8 +2,6 @@
 
 A high-fidelity, production-grade restaurant discovery platform inspired by Zomato's **Sushi Design System**. Powered by the **Groq Llama-3.3-70b** model for intelligent, context-aware dining recommendations.
 
-![Zomato AI Preview](https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png)
-
 ## ✨ Features
 
 - **Sushi Sticky Header**: Impeccable navigation with scroll-state micro-interactions.
